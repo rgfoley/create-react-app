@@ -1,4 +1,5 @@
 # Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frgfoley%2Fcreate-react-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Frgfoley%2Fcreate-react-app?ref=badge_shield)
 
 Create React apps with no build configuration.
 
@@ -201,3 +202,6 @@ We are grateful to the authors of existing related projects for their ideas and 
 ## License
 
 Create React App is open source software [licensed as MIT](https://github.com/facebook/create-react-app/blob/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Frgfoley%2Fcreate-react-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Frgfoley%2Fcreate-react-app?ref=badge_large)
